@@ -1,0 +1,11 @@
+langchain
+langsmith
+langchain-openai
+dotenv
+langchain-community
+langchain-core
+langchain-text-splitters
+pypdf
+faiss-cpu
+langchain-xai
+requests
